@@ -1,0 +1,14 @@
+{
+  "name": "taller-1",
+  "version": "1.0.0",
+  "description": "Primer ejemplo uso Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Cristian Puerchambud",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.2"
+  }
+}
