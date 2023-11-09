@@ -1,0 +1,32 @@
+Usuario: POR16637
+IP: 10.34.12.215
+Entel1209@kvLbs
+
+Usuario: POR16633
+IP: 10.34.12.233
+Entel1209@Xt7X6
+
+Usuario: POR16632
+IP: 10.34.12.68
+Entel1209@Dkv8C
+
+Usuario: POR16635
+IP: 10.34.12.210
+Entel1209@JpvDG
+
+Usuario: POR16636
+IP: 10.34.12.216
+Entel1209@wMokz
+
+Usuario: POR12859
+IP: 10.34.12.54
+Entel1209@Bdjad
+
+Usuario: POR12480
+IP: 10.34.12.53
+Entel1209@D4dYi
+
+Usuario: POR16634
+IP: 10.34.12.119
+Entel1209@1elJa
+
