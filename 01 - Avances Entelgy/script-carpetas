@@ -1,0 +1,22 @@
+// Ruta de la carpeta que deseas explorar
+def rutaCarpeta = "/ruta/de/la/carpeta" // Reemplaza con la ruta de tu carpeta
+
+try {
+    // Obtiene la lista de archivos en la carpeta
+    def carpeta = new File(rutaCarpeta)
+    def archivos = carpeta.listFiles()
+
+    // Verifica si la carpeta no está vacía
+    if (archivos != null) {
+        // Imprime los nombres de los archivos
+        println("Nombres de archivos en la carpeta $rutaCarpeta:")
+        archivos.each { archivo ->
+            println(archivo.name)
+        }
+    } else {
+        println("La carpeta está vacía o no es válida.")
+    }
+} catch (Exception e) {
+    // Manejo de errores
+    println("Error al explorar la carpeta: ${e.message}")
+}
